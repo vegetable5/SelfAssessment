@@ -2,61 +2,61 @@
 
 - Theory
   - Procedural programming: 🖐 used
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming: 👂 heard
-  - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming
+  - Imperative programming: 🎓 known
+  - Structured programming: 🖐 used
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming: 👂 heard
   - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: 👂 heard
   - Encapsulation
   - Hidden class
-  - Object form
-  - instance
+  - Object form: 🎓 known
+  - instance: 🎓 known
   - Introspection
-  - Reflection
+  - Reflection: 👂 heard
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
-  - Chain of Responsibility
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator
-  - State
+  - Iterator: 🖐 used
+  - State: 👂 heard
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🎓 known
   - Composite
   - Decorator
   - Flyweight
