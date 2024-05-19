@@ -2,35 +2,35 @@
 
 - Language
   - `Object`: 🖐 used
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`: 🎓 known
-  - `String`
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
   - `Symbol`: 🖐 used
-  - `Infinity`
-  - `NaN`
+  - `Infinity` u
+  - `NaN` u
   - `undefined`: 🖐 used
   - `null`: 🖐 used
   - `this`: 🎓 known
-  - `instanceof`: 🎓 known
-  - `...spread`: 👂 heard
-  - `...rest`: 👂 heard
+  - `instanceof` u
+  - `...spread` u
+  - `...rest` u
   - `typeof`: 🖐 used
   - Destructuring: 🖐 used
   - Generators: 🎓 known
   - Iterators: 🖐 used
-  - Async generator: 👂 heard
-  - Async iterator: 👂 heard
+  - Async generator k
+  - Async iterator k
   - Chaining: 🎓 known
   - Optional chaining: 👂 heard
-  - IIFE: 🎓 known
-  - Async IIFE
+  - IIFE u
+  - Async IIFE k
   - `global`: 🎓 known
-  - `globalThis`: 👂 heard
-  - `window`: 👂 heard
+  - `globalThis` k
+  - `window` k
   - Getters and setters: 🎓 known
-  - `__proto__`
+  - `__proto__` k
   - `prototype`: 🎓 known
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
@@ -38,26 +38,26 @@
   - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
   - `void`: 🙋 explained
-  - `yield`: 👂 heard
+  - `yield` k
   - `await`: 🎓 known
   - Template literal: 🖐 used
   - Strict mode: 🖐 used
-  - Hoisting
+  - Hoisting k
   - `delete`: 🖐 used
   - `in`: 🖐 used
   - `super`: 🎓 known
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
+  - `eval` k
+  - `static` k
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
+  - Property descriptors u
   - Sealing properties
   - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Computed properties h
+  - Instance class fields k
+  - Static class fields k
+  - Private class fields k
+  - Private class methods k
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
@@ -74,44 +74,44 @@
   - `label`: 🎓 known
   - `try..catch`: 🎓 known
   - `switch`: 🖐 used
-  - `class`: 🎓 known
+  - `class` u
   - `extends`: 🎓 known
-  - `with`: 👂 heard
-  - `new`
+  - `with`
+  - `new` u
 - Functions
   - Arrow function: 🖐 used
-  - Async function: 👂 heard
+  - Async function k
   - Function declaration: 🖐 used
   - Function expression: 🖐 used
   - Default parameters: 🖐 used
   - Functional object: 👂 heard
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call` k
+  - `Function.prototype.bind` k
+  - `Function.prototype.apply` k
   - `return`: 🖐 used
 - Data structures
   - `Array`: 🙋 explained
   - `Map`: 🖐 used
   - `Set`: 🖐 used
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap` k
+  - `WeakSet` k
   - Typed arrays: 🖐 used
   - Mixins: 🎓 known
-  - `Object.assign`
+  - `Object.assign` u
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`: 🖐 used
   - `Date`: 🖐 used
-  - `Math`
+  - `Math` u
   - `Reflect`: 👂 heard
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise` k
+  - `console` u
   - Timers: 🖐 used
 - Infrastructure
   - V8: 🎓 known

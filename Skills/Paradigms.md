@@ -6,18 +6,18 @@
   - Structured programming: 🖐 used
   - Non-structured programming: 🎓 known
   - Functional programming: 🎓 known
-  - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 🎓 known
-  - Object-based programming: 👂 heard
+  - Prototype-based programming k
+  - Object-oriented programming k
+  - Object-based programming h
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Reactive programming
+  - Asynchronous programming k
+  - Parallel programming k
+  - Reactive programming k
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
+  - Multi-paradigm programming k
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus
@@ -31,7 +31,7 @@
   - Operator `new`: 🎓 known
   - Static method: 🎓 known
   - Method: 🎓 known
-  - Async method
+  - Async method k
   - Getters, Setters: 🎓 known
   - Public fields: 🎓 known
   - Private fields: 🎓 known
@@ -41,7 +41,7 @@
   - Polymorphism
   - Abstract class
   - Interface: 👂 heard
-  - Encapsulation
+  - Encapsulation k
   - Hidden class
   - Object form: 🎓 known
   - Instance: 🎓 known
@@ -64,18 +64,18 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton k
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer h
   - Strategy
   - Facade
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
   - Iterator: 🖐 used
-  - State: 👂 heard
+  - State k
   - Bridge
   - Builder
   - Prototype: 🎓 known

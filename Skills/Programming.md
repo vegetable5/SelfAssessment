@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model k
+  - Modeling k
   - Subject domain
   - Algorithm: 🎓 known
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Syntax k
+  - Semantics k
+  - Abstraction k
   - Paradigm: 🎓 known
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
+  - Programm k
+  - Programming paradigm k
+  - Programming language k
+  - Contract k
+  - Module k
+  - Library k
   - Package
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework k
+  - Platform k
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse k
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle h
 - Syntax and concepts
   - Value: 🙋 explained
   - Identifier: 🙋 explained
@@ -42,42 +42,42 @@
   - Heap: 🎓 known
   - Function: 🖐 used
   - Procedure: 🖐 used
-  - Method: 🎓 known
-  - Class: 🎓 known
+  - Method u
+  - Class u
   - Prototype: 🎓 known
-  - Event
+  - Event k
   - Type: 🖐 used
   - Flag: 🖐 used
   - Lexical scope: 🎓 known
-  - Code block: 👂 heard
+  - Code block k
   - Conditions: 🎓 known
   - Loops: 🖐 used
   - Assignment: 🖐 used
   - Regular expression: 🖐 used
-  - Interface: 👂 heard
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Interface k
+  - Namespaces h
+  - Call stack k
+  - Naming conventions k
+  - Coding conventions k
+  - Camel case u
+  - Snake case u
+  - Kebab case k
+  - Trailing commas k
   - Return early: 🎓 known
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types u
+  - Reference types u
+  - Type systems h
+  - Strong typing h
+  - Weak typing h
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing u
+  - Dynamic typing u
   - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
+  - Structural typing k
+  - Explicit typing h
+  - Type inference h
   - Covariance
   - Contravariance
 - Functions
@@ -88,57 +88,57 @@
   - Lambda expression: 🎓 known
   - Side effects: 🖐 used
   - Closure: 🎓 known
-  - Partial application
-  - Currying: 👂 heard
-  - Higher order: 👂 heard
+  - Partial application k
+  - Currying k
+  - Higher order k
   - Recursion: 🖐 used
   - Tail call optimisation
   - Callback: 🎓 known
-  - Listener: 👂 heard
+  - Listener k
   - Composition: 🎓 known
   - Pipe: 🎓 known
   - Memoize: 🎓 known
   - Wrapper: 🎓 known
-  - Functor: 👂 heard
-  - Monad: 👂 heard
-  - Monoid: 👂 heard
+  - Functor k
+  - Monad k
+  - Monoid k
   - Generator: 🎓 known
   - Coroutine: 👂 heard
 - Data structures
   - Array: 🙋 explained
   - Structure: 🎓 known
   - Record: 🎓 known
-  - Enum: 👂 heard
-  - Instance: 👂 heard
-  - Object: 🎓 known
+  - Enum k
+  - Instance k
+  - Object u
   - Collection: 🎓 known
   - Set: 🖐 used
   - Hash table: 🖐 used
-  - Linked list: 👂 heard
-  - Doubly list: 👂 heard
-  - Unrolled list: 👂 heard
-  - Circular list: 👂 heard
+  - Linked list u
+  - Doubly list u
+  - Unrolled list k
+  - Circular list k
   - Queue: 🖐 used
-  - Stack: 🎓 known
+  - Stack u
   - Deque: 🎓 known
   - Tree: 🎓 known
   - Graph: 🖐 used
   - Iterator: 🖐 used
   - Mutable state: 🖐 used
   - Immutable state: 🖐 used
-  - Serialization: 👂 heard
+  - Serialization k
   - String parsing: 🖐 used
-  - JSON
+  - JSON k
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS k
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 k
+  - IPv6 k
+  - NAT k
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -148,12 +148,12 @@
   - Transpiler: 🎓 known
   - Linter: 🎓 known
   - Polyfill: 👂 heard
-  - Interpreter
+  - Interpreter k
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime k
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -162,8 +162,8 @@
   - Garbage collection: 🎓 known
   - Refactoring: 🎓 known
   - Code review: 🎓 known
-  - Exception
-  - Unittesting
+  - Exception k
+  - Unittesting k
   - git: 🖐 used
   - Github: 🖐 used
   - Docker
@@ -171,36 +171,36 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
+  - Magic numbers k
+  - Hard code k
+  - Soft code k
+  - Cryptic code k
+  - Improbability factor k
+  - Accidental complexity k
   - Action at a distance
   - Spaghetti: 🎓 known
-  - Silver bullet: 👂 heard
+  - Silver bullet k
   - Not invented here: 🎓 known
   - Dead code: 🎓 known
   - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
+  - Premature optimization k
+  - Micro-optimization k
+  - Nested loops k
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
+  - Too many parameters k
+  - Pass-through parameters k
+  - Accumulate and fire k
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
-  - Data clump
-  - Feature envy
+  - Data clump k
+  - Feature envy k
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem k
 - Runtimes and virtual machines
   - Bytecode
   - V8
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers k
+  - Kernel k
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system k
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
+  - MacOS k
+  - Windows u
+  - Real-time OS k
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 k
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 k
   - W3C
   - ODMG
