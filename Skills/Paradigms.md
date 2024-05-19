@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐 used
+  - Procedural programming: 🖐: 🖐️ used
   - Imperative programming: 🎓 known
-  - Structured programming: 🖐 used
+  - Structured programming: 🖐: 🖐️ used
   - Non-structured programming: 🎓 known
   - Functional programming: 🎓 known
-  - Prototype-based programming k
-  - Object-oriented programming k
-  - Object-based programming h
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming k
-  - Parallel programming k
-  - Reactive programming k
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming k
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus
@@ -31,7 +31,7 @@
   - Operator `new`: 🎓 known
   - Static method: 🎓 known
   - Method: 🎓 known
-  - Async method k
+  - Async method: 🎓 known
   - Getters, Setters: 🎓 known
   - Public fields: 🎓 known
   - Private fields: 🎓 known
@@ -41,7 +41,7 @@
   - Polymorphism
   - Abstract class
   - Interface: 👂 heard
-  - Encapsulation k
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form: 🎓 known
   - Instance: 🎓 known
@@ -64,18 +64,18 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton k
+  - Singleton: 🎓 known
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator: 🖐 used
-  - State k
+  - Iterator: 🖐: 🖐️ used
+  - State: 🎓 known
   - Bridge
   - Builder
   - Prototype: 🎓 known
