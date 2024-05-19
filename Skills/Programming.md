@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐 used
-  - identifier: 🖐 used
-  - variable: 🖐 used
-  - constant: 🖐 used
-  - scalar: 🖐 used
-  - literal: 🖐 used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
   - expression: 🖐 used
-  - heap: 👂 heard
+  - heap: 🎓 known
   - function: 🖐 used
   - procedure: 🖐 used
-  - method
-  - class: 👂 heard
-  - prototype
-  - event: 👂 heard
+  - method: 🎓 known
+  - class: 🎓 known
+  - prototype: 🎓 known
+  - event: 🎓 known
   - type: 🖐 used
   - primitive types: 🖐 used
-  - reference types
+  - reference types: 🎓 known
   - flag: 🖐 used
-  - lexical scope
-  - code block
-  - conditions
+  - lexical scope: 🎓 known
+  - code block: 👂 heard
+  - conditions: 🎓 known
   - loops: 🖐 used
   - assignment: 🖐 used
   - regular expression: 🖐 used
   - interface: 👂 heard
-  - contract
-  - module
-  - call stack
+  - contract: 👂 heard
+  - module: 🖐 used
+  - call stack: 🖐 used
 - Functions
   - signature: 🖐 used
   - argument: 🖐 used
   - parameter: 🖐 used
   - pure function: 🖐 used
-  - lambda expression
+  - lambda expression: 🎓 known
   - side effects: 🖐 used
-  - closure: 👂 heard
-  - partial application
-  - curry
-  - higher order
+  - closure: 🎓 known
+  - partial application: 👂 heard
+  - curry: 👂 heard
+  - higher order: 👂 heard
   - recursion: 🖐 used
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper: 👂 heard
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - callback: 🎓 known
+  - listener: 👂 heard
+  - compose: 🎓 known
+  - pipe: 🎓 known
+  - memoize: 🎓 known
+  - wrapper: 🎓 known
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
+  - generator: 🎓 known
+  - coroutine: 👂 heard
 - Data structures
-  - array: 🖐 used
-  - structure
-  - record
-  - enum
-  - instance
-  - object: 👂 heard
-  - class: 👂 heard
-  - collection
+  - array: 🙋 explained
+  - structure: 🎓 known
+  - record: 🎓 known
+  - enum: 👂 heard
+  - instance: 👂 heard
+  - object: 🎓 known
+  - class: 🎓 known
+  - collection: 🎓 known
   - set: 🖐 used
   - hash table: 🖐 used
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - linked list: 👂 heard
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
   - queue: 🖐 used
-  - stack
-  - deque
-  - tree
-  - graph: 👂 heard
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🎓 known
+  - graph: 🖐 used
   - iterator: 🖐 used
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - mutable state: 🖐 used
+  - immutable state: 🖐 used
+  - serialization: 👂 heard
+  - string parsing: 🖐 used
 - Process & style
   - compiler: 🖐 used
-  - transpiler
-  - linter
-  - polyfill
-  - debugger: 👂 heard
-  - garbage collection
-  - refactoring
-  - code review: 👂 heard
-  - antipatterns
-  - paradigm
-  - algorithm: 🖐 used
-  - magic numbers: 👂 heard
-  - hardcode
-  - complexity: 👂 heard
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - transpiler: 🎓 known
+  - linter: 🎓 known
+  - polyfill: 👂 heard
+  - debugger: 🖐 used
+  - garbage collection: 🎓 known
+  - refactoring: 🎓 known
+  - code review: 🎓 known
+  - antipatterns: 🎓 known
+  - paradigm: 🎓 known
+  - algorithm: 🙋 explained
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
+  - complexity: 🎓 known
+  - decomposition: 🎓 known
+  - spaghetti: 🎓 known
+  - silver bullet: 👂 heard
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🎓 known
+  - return early: 🎓 known
+  - unittest: 🎓 known
+  - git: 🖐 used
+  - github: 🖐 used

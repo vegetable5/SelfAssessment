@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -11,9 +11,9 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🎓 known
+  - ECMAScript module: 🎓 known
+  - node:module: 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
@@ -99,11 +99,11 @@
   - Routing: 👂 heard
   - DoS: 👂 heard
   - DDoS: 👂 heard
-  - XSS
+  - XSS: 👂 heard
   - Path traversal
   - CSRF
   - DNS: 👂 heard
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -118,12 +118,12 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐 used
   - Inspector
   - Reliability
   - Quality
