@@ -11,18 +11,24 @@
   - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming: 👂 heard
+  - Asynchronous programming: 👂 heard
   - Parallel programming: 👂 heard
   - Reactive programming
-  - FRP (Functional-reactive)
+  - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
+  - Lambda calculus
+  - Black box
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
+  - Constructor: 🎓 known
+  - Operator `new`: 🎓 known
   - Static method: 🎓 known
   - Method: 🎓 known
   - Async method
@@ -38,9 +44,25 @@
   - Encapsulation
   - Hidden class
   - Object form: 🎓 known
-  - instance: 🎓 known
+  - Instance: 🎓 known
   - Introspection
   - Reflection: 👂 heard
+  - The diamond problem
+- GRASP
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Protected variations
+  - Pure fabrication
+- SOLID
+  - Single-responsibility principle (SRP)
+  - Open–closed principle (OCP)
+  - Liskov substitution principle (LSP)
+  - Interface segregation principle (ISP)
+  - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
   - Factory Method: 👂 heard
@@ -64,3 +86,6 @@
   - Memento
   - Template Method
   - Visitor
+  - Reactor
+  - Active object
+  - Delegation
