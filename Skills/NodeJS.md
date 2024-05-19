@@ -4,9 +4,9 @@
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🎓 known
+  - Files `package.json`, `package-lock.json`: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -55,7 +55,7 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:assert`: 🎓 known
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
@@ -65,11 +65,11 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🎓 known
   - IncomingMessage
-  - HTTP(S): 👂 heard
-  - TCP/SSL: 👂 heard
-  - UDP
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
   - Websocket: 👂 heard
   - SSE: 👂 heard
@@ -83,34 +83,34 @@
   - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS: 👂 heard
+  - DNS: 🎓 known
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
-  - Logging
+  - Native test runner: 🎓 known
+  - Logging: 🎓 known
   - Application configuring
-  - Testing
+  - Testing: 🎓 known
   - CI/CD
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
   - Buffer
-  - Console: 🖐 used
-  - Inspector
+  - Console: 🖐: 🖐️ used
+  - Inspector: 🎓 known
 - Data access
   - Data access layer
-  - Repository: 👂 heard
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`: 👂 heard
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`
